@@ -1,0 +1,317 @@
+[
+    {
+        "geometry": {
+            "coordinates": [
+                2696925,
+                1240800
+            ],
+            "type": "Point"
+        },
+        "id": "527",
+        "properties": {
+            "name": "Aabach-Mönchaltorf",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                2695100,
+                1244725
+            ],
+            "type": "Point"
+        },
+        "id": "554",
+        "properties": {
+            "name": "Aabach-Niederuster",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                2697550.000,
+                1261240.000
+            ],
+            "type": "Point"
+        },
+        "id": "522",
+        "properties": {
+            "name": "Eulach-Winterthur",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                2694120.000,
+                1262820.000
+            ],
+            "type": "Point"
+        },
+        "id": "523",
+        "properties": {
+            "name": "Eulach-Wülflingen",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                2669910.000,
+                1255280.000
+            ],
+            "type": "Point"
+        },
+        "id": "548",
+        "properties": {
+            "name": "Furtbach-Würenlos",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                2700400.000,
+                1278746.000
+            ],
+            "type": "Point"
+        },
+        "id": "576",
+        "properties": {
+            "name": "Geisslibach-Furtmüli",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                2689400.000,
+                1250280.000
+            ],
+            "type": "Point"
+        },
+        "id": "533",
+        "properties": {
+            "name": "Glatt-Dübendorf",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                2682870.000,
+                1256550.000
+            ],
+            "type": "Point"
+        },
+        "id": "534",
+        "properties": {
+            "name": "Glatt-Rümlang",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                2707050.000,
+                1234060.000
+            ],
+            "type": "Point"
+        },
+        "id": "582",
+        "properties": {
+            "name": "Jona-Rüti",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                2675080.000,
+                1238460.000
+            ],
+            "type": "Point"
+        },
+        "id": "574",
+        "properties": {
+            "name": "Jonen-Zwillikon",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                2696711.000,
+                1252445.000
+            ],
+            "type": "Point"
+        },
+        "id": "517",
+        "properties": {
+            "name": "Kempt-Illnau",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                2695435.000,
+                1258750.000
+            ],
+            "type": "Point"
+        },
+        "id": "581",
+        "properties": {
+            "name": "Kempt-Winterthur",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                2673197.000,
+                1251407.000
+            ],
+            "type": "Point"
+        },
+        "id": "586",
+        "properties": {
+            "name": "Limmatkanal-KW Dietikon",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                2682510.000,
+                1249125.000
+            ],
+            "type": "Point"
+        },
+        "id": "578",
+        "properties": {
+            "name": "Limmat-Zch. KW Letten",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                2672435.000,
+                1251590.000
+            ],
+            "type": "Point"
+        },
+        "id": "572",
+        "properties": {
+            "name": "Reppisch-Dietikon",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                2685720.000,
+                1270040.000
+            ],
+            "type": "Point"
+        },
+        "id": "597",
+        "properties": {
+            "name": "Rhein-Rüdlingen",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                2693645.000,
+                1225585.000
+            ],
+            "type": "Point"
+        },
+        "id": "547",
+        "properties": {
+            "name": "Sihl-Blattwag",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                2686005.000,
+                1264990.000
+            ],
+            "type": "Point"
+        },
+        "id": "570",
+        "properties": {
+            "name": "Töss-Freienstein",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                2703795.000,
+                1255605.000
+            ],
+            "type": "Point"
+        },
+        "id": "520",
+        "properties": {
+            "name": "Töss-Rämismühle",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                2680215.000,
+                1236507.000
+            ],
+            "type": "Point"
+        },
+        "id": "552",
+        "properties": {
+            "name": "Türlersee",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    },
+    {
+        "geometry": {
+            "coordinates": [
+                2686660.000,
+                1236400.000
+            ],
+            "type": "Point"
+        },
+        "id": "502",
+        "properties": {
+            "name": "Zürichsee-Oberrieden",
+            "link": "https://hw.zh.ch/hochwasser/mac/at-tablet.html"
+        },
+        "type": "Feature"
+    }
+]
